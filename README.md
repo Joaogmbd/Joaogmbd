@@ -1,7 +1,7 @@
 Olá! 👋 Meu nome é João Gabriel
 =============================
 
-Estudante de Ciência da Computação e Estagiário em DevOps
+Estudante de Ciência da Computação e Estagiário em Infraestrutura
 ---------------------------------------------------------
 
 Aprendendo a programar desde 2017, atualmente estagiando em Tribunal de Contas do Estado do Espírito Santo
