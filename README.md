@@ -34,7 +34,7 @@ Aprendendo a programar desde 2017, atualmente estagiando em Tribunal de Contas d
 
 ### Portfólio
 
-<b>Statísticas do Github</b>
+<b>Estatísticas do Github</b>
 
 <a href="http://www.github.com/Joaogmbd"><img src="https://github-readme-stats.vercel.app/api?username=Joaogmbd&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Joaogmbd's GitHub stats" /></a>
 
