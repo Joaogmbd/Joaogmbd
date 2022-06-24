@@ -9,7 +9,7 @@ Aprendendo a programar desde 2017, atualmente estagiando em Tribunal de Contas d
 * 🌍  Vila Velha, Brasil
 * ✉️  Contato: [joaogmbd@hotmail.com](mailto:joaogmbd@hotmail.com)
 * 🚀  Trabalhando em: [Tribunal de Contas do Estado do Espírito Santo](http://tcees.tc.br)
-* 🧠  Aprendendo Infraestrutura, desenvolvimento mobile
+* 🧠  Aprendendo Infraestrutura, Cursando Ciência da Computação.
 * ⚡  Sou apaixonado pela área de Cibersegurança.
 
 ### Habilidades
